@@ -1,0 +1,44 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas de compilacion y construccion
+bin/
+out/
+target/
+build/
+guias/
+
+# Configuracion local de IDEs
+.idea/
+.vscode/
+*.iml
+sources.txt
+lib/*.jar
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales y de respaldo
+*.tmp
+*.temp
+*.swp
+*~
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
